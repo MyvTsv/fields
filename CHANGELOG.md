@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Fix application of the read-only option on RichText fields.
 - Fix loading of default value for RichText fields.
+- Fix container tab label translation
 
 ## [1.21.28] - 2026-02-16
 
