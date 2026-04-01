@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+
+### Fixed
+
+- Fix error when submitting a form with an hidden question of type `Field`
+
 ## [1.23.4] - 2026-03-26
 
 ### Fixed
