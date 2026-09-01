@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 - Fix administrators losing access to a block's configuration after setting a profile to "no access" on that block.
+- Fix default field values not being applied when fields are empty on creation
 
 ## [1.24.5] - 2026-09-11
 
