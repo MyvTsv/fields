@@ -6,6 +6,10 @@
     "require-dev": {
         "glpi-project/tools": "^0.8.3"
     },
+    "provide": {
+        "symfony/deprecation-contracts": "*",
+        "symfony/polyfill-ctype": "*"
+    },
     "config": {
         "optimize-autoloader": true,
         "platform": {
